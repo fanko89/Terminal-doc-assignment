@@ -16,4 +16,4 @@ A directory that you or the (user) is currently in or where you're executing com
 A directory that contains exacutable files that can be carried out by the operationg system to perform specific function. They are commands like "ls" that are used by typing the name in the terminal. 
 # Write about at least two new things you have personally learned about the command line.
 - That you can use "grep" to search for certain strings in the directory.
-- use pipe \|\  to do multiple commands for filtering out files to find a certain one in a large list of files.
+- use pipe "\|"  to do multiple commands for filtering out files to find a certain one in a large list of files.
