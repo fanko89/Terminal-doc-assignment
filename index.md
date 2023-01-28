@@ -2,7 +2,7 @@
 it's a command line interface that alows you to interact with the operating system on your computer by entering commands. It's importaint for web developers because they can navigate/delete/change directories and other tasks on their computer file system.
 # For you, what are some important built-in commands to know. What do they do, and why are they important? (At least 5)
 - ls (list the files in the directory) | to know where you are located in the file system so you can locate where you need to be.
-![ls example](/pic/lsnew.JPG) test
+![ls example](/pic/lsnew.JPG)
 - cd (change current directory) If you are in the wrong directory, you would use this to change your directory to the right location.
 ![cd example](/pic/cd.JPG)
 - rm (delete a file or directory) If you don't need a directory or certain file, you would use this command.
